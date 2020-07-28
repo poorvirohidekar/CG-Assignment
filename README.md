@@ -8,7 +8,7 @@ A 3d Hoverboard game virtually designed using Three.js and DeviceOrientation API
 - ngrok: [ngrok.io](ngrok.com)
 
 ## Usage
-<img src="public/final.jpg">
+<img src="public/final.JPG">
 
 Representing how the game looks on a laptop
 
